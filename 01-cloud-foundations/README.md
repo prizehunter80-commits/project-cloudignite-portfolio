@@ -15,7 +15,7 @@ I attended the onboarding session and Q&A.
 - Consistency and documentation are important
 
 ### Screenshots
-*(I will add class screenshots here soon)*
+[Onboarding Session] 
 
 **Week 1 • Project CloudIgnite • June 2026**
 <img width="1920" height="1080" alt="Screenshot 2026-06-08 192306 onboard" src="https://github.com/user-attachments/assets/73012d07-c28d-41e0-9cab-4e7a33ef8da0" />
