@@ -10,6 +10,12 @@ I attended the onboarding session and Q&A.
 - How to access AWS Learning Platform
 - Importance of attendance and documentation
 
+### Topics Covered This Week
+- Cloud Computing basics
+- Program introduction
+- AWS Platform access
+- Q&A sessions
+
 ### Key Takeaways
 - Started my cloud learning journey as a career switcher 
 - Consistency is important
