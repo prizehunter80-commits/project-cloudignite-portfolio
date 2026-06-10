@@ -20,6 +20,11 @@ I attended the onboarding session and Q&A.
 - Started my cloud learning journey as a career switcher 
 - Consistency is important
 
+### Link
+-https://docs.aws.amazon.com/
+-https://calculator.aws/#/
+-https://aws.amazon.com/free/ 
+
 **Week 1 • Project CloudIgnite Cohort 4 • June 2026**
 
 ### Screenshots
